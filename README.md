@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Sai Prasanth Nitta</h1>
+<h1 align="center">Hi there 👋, I'm Prasanth N</h1>
 <h3 align="center">Senior Site Reliability Engineer | DevOps | Cloud Platform Engineer</h3>
 
 <p align="center">
