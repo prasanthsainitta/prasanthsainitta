@@ -35,7 +35,7 @@
 
 ## 🧠 Core Systems Expertise
 
-### 🔥 Generative AI Stack
+### 🔥 Generative AI
 
 <p>
 <img src="https://img.shields.io/badge/GPT--4-Azure%20OpenAI-412991?style=for-the-badge&logo=openai"/>
@@ -146,7 +146,7 @@ Impact:
 
 ---
 
-## 🧰 Tech DNA
+## 🧰 Technical Skills
 
 ```yaml
 Languages: Python, SQL, Scala, Bash
@@ -175,7 +175,7 @@ DevOps: Docker, Kubernetes, CI/CD
 <a href="mailto:Saiprasanth533@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
-<a href="https://linkedin.com/in/ns-prasanth">
+<a href="https://linkedin.com">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
