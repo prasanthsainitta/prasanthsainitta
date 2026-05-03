@@ -6,10 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Production-Grade+LLM+Systems;RAG+Pipelines+%7C+Agentic+AI;Scaling+AI+to+10K%2B+Requests%2FDay;Low+Hallucination+%7C+High+Trust+AI;MLOps+%7C+Cloud+%7C+Distributed+Systems" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" />
-</p>
+
 
 ---
 
