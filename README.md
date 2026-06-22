@@ -1,4 +1,4 @@
-# ⚡ Prasanth N | AI/ML Engineer
+# ⚡ Sai N | Senior AI/ML Engineer
 
 ### 🧠 GenAI • RAG Systems • Agentic AI • MLOps • Distributed Data Platforms
 
