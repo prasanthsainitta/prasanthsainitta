@@ -1,4 +1,4 @@
-# ⚡ Sai N | Senior AI/ML Engineer
+# ⚡ Sai N | Software Engineer, ML & Gen AI
 
 ### 🧠 GenAI • RAG Systems • Agentic AI • MLOps • Distributed Data Platforms
 
